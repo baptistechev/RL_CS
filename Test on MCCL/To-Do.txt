@@ -1,5 +1,2 @@
-- thresholding
 - rules number
 - rule type
-- content of the sample
-- really low sample size (1 or 10)
